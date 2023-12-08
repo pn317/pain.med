@@ -18,3 +18,5 @@ Imports:
     stringdist,
     tibble,
     utils
+URL: https://github.com/pn317/pain.med
+BugReports: https://github.com/pn317/pain.med/issues
