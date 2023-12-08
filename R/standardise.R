@@ -2,6 +2,7 @@
 #'
 #' @param x Character vector of names to be standardised
 #' @param ... Additional arguments passed to `calc_dist`
+#' @param quiet Logical; (default = FALSE) if TRUE, run without messages
 #'
 #' @return Character vector the same length as `x`
 #'

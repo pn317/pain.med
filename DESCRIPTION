@@ -14,7 +14,6 @@ Depends:
 LazyData: true
 Imports: 
     dplyr,
-    fedmatch,
     magrittr,
     stringdist,
     tibble,

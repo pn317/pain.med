@@ -10,6 +10,8 @@ standardise(x, ..., quiet = FALSE)
 \item{x}{Character vector of names to be standardised}
 
 \item{...}{Additional arguments passed to \code{calc_dist}}
+
+\item{quiet}{Logical; (default = FALSE) if TRUE, run without messages}
 }
 \value{
 Character vector the same length as \code{x}
