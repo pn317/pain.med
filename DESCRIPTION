@@ -1,0 +1,21 @@
+Package: pain.med
+Title: "Handle Pain Medication Data"
+Version: 0.0.0.9000
+Authors@R: 
+    person("Paul", "Newell", , "p.newell@exeter.ac.uk", role = c("aut", "cre"),
+           comment = c(ORCID = "0009-0001-6071-6209"))
+Description: "Supports handling of pain medication names."
+License: GPL (>= 3)
+Encoding: UTF-8
+Roxygen: list(markdown = TRUE)
+RoxygenNote: 7.2.3
+Depends: 
+    R (>= 2.10)
+LazyData: true
+Imports: 
+    dplyr,
+    fedmatch,
+    magrittr,
+    stringdist,
+    tibble,
+    utils
